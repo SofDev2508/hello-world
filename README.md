@@ -1,2 +1,4 @@
 # hello-world
-test github
+This is a test with github.
+
+sophie
